@@ -1,2 +1,1 @@
-# bocilbacol
-bocilbacol
+# [bocilbacol](https://bocilbacol.pages.dev)
